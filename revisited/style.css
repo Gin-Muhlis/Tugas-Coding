@@ -1,0 +1,148 @@
+div {
+    border: 1px solid #000000;
+    margin-bottom: 25px;
+    padding: 7px;
+    width: max-content;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* !Lesson 2 */
+.amazon-link {
+    color: rgb(0, 113, 133);
+}
+
+.delivery {
+    color: rgb(0, 118, 0);
+}
+
+.chart {
+    border: none;
+    outline: none;
+    padding: 7px 25px;
+    background-image: linear-gradient(to right, rgb(255, 216, 20), rgb(255, 170, 28));
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.buy {
+    border: none;
+    outline: none;
+    padding: 7px 25px;
+    background-image: linear-gradient(to right, rgb(255, 164, 20), rgb(255, 164, 28));
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+/* !Lesson 3 */
+.buttons .btn {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0 10px;
+    padding: 10px 20px;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    transition: all .5s ease;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    -o-transition: all .5s ease;
+}
+
+.buttons .btn-1 {
+    background: #000;
+    color: #fff;
+}
+
+.buttons .btn-1:hover {
+    opacity: .9;
+}
+
+.buttons .btn-2 {
+    background: rgb(255, 216, 20);
+    color: #fff;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.buttons .btn-2:hover {
+    background: rgb(219, 184, 9);
+}
+
+.buttons .btn-3 {
+    background: rgb(46, 164, 79);
+    color: #fff;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.buttons .btn-3:hover {
+    box-shadow: 0 8px 7px rgba(0, 0, 0, .3);
+}
+
+.buttons .btn-4 {
+    background: rgb(121, 82, 219);
+    color: #fff;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.buttons .btn-4:hover {
+    background: rgb(70, 28, 177);
+}
+
+.buttons .btn-5 {
+    background-color: transparent;
+    border: 1px solid #000;
+}
+
+.buttons .btn-5:hover {
+    background: rgb(128, 128, 128);
+    color: #fff;
+    border-color: rgb(128, 128, 128);
+}
+
+.buttons .btn-6 {
+    background: rgb(10, 102, 194);
+    color: #fff;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.buttons .btn-6:hover {
+    background: rgb(7, 82, 156);
+}
+
+.buttons .btn-7 {
+    background: transparent;
+    color: rgb(10, 102, 194);
+    border: 1px solid rgb(10, 102, 194);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.buttons .btn-7:hover {
+    border-width: 2px;
+    background: rgb(200, 200, 200);
+}
